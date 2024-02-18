@@ -1,0 +1,210 @@
+body
+{
+    background-color:#f0f2f5;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 12px;
+    
+}
+.header
+{
+    width: 100%;
+    height: 90px;
+    background-color:#f0f2f5;
+    text-align: center;
+    padding-top: 5px;
+
+}
+.image1
+{
+    height: 100px;
+}
+.main
+{
+    width: 432px;
+    height: 607px;
+    background-color:#ffff;
+    margin-left: 545px;
+    border-radius: 8px;
+}
+.main-header
+{
+    
+    width: 432px;
+    height: 85px;
+    background-color:#ffff ; 
+    border-radius: 8px;
+}
+.head1
+{
+    text-align: center;
+    font-size: 25px;
+    padding-top: 10px;
+    list-style:  32px;;
+   
+}
+.para1
+{
+    text-align: center;
+    font-size: 15px;
+    color: #606770;
+    height: 13px;
+    line-height: 2px;
+}
+.line
+{
+    line-height:2px ;
+    color: inherit;
+}
+.main-body
+{
+    width: 432px;
+    height: 531px;
+    background-color:#ffff;
+    border-radius: 0 0 8px 8px;
+     font-family:  "SFProDisplay-Regular, Helvetica, Arial, sans-serif";
+    font-size: 15px;
+    line-height: 16px;
+    color:#8d949e ;
+    border-color: #ccd0d5;
+}
+.tab1
+{
+    padding-left: 10px;
+    height: 10px;
+    width: 30px;
+    padding-top: 30px;
+
+}
+.tab2
+{
+    padding-left: 10px;
+    height: 10px;
+    width: 30px;
+    padding-top: 30px;
+
+}
+.hi
+{
+    height: 35px;
+    width: 180px;
+    font-size: 17px;
+    color: black;
+    font-family:" SFProDisplay-Regular, Helvetica, Arial, sans-serif";
+     border-color: #ccd0d5;
+    border-radius: 5px;
+    padding-left: 8px;
+    margin-top: -6px;
+}
+.email
+{
+    margin-top: 15px;
+    margin-left: 12px;
+    height: 35px;
+    width: 390px;
+    border-radius: 5px;
+    font-size: 17px;
+    border-color: #ccd0d5;
+
+}
+.day
+{
+    padding-left: 15px;
+    line-height: 0;
+    padding-top: 14px;
+    float: left;
+}
+.options
+{
+    height: 36px;
+    width: 125px;
+    padding-left: 12px;
+    border-radius: 4px;
+}
+.month
+{
+    padding-left: 10px;
+    line-height: 0;
+    padding-top: 44px;
+    float: left;
+}
+.year
+{
+    padding-left: 10px;
+    line-height: 0;
+    padding-top: 44px;
+    float: left;
+}
+#para2
+{
+    color:gray;
+}
+.radi
+{
+    margin-top: 92px;
+    padding-left: 17px;
+    font-size: 22px;
+    color: black;
+}
+.pa
+{
+    font-size: 14px;
+    color: gray;
+
+}
+.butto
+{
+   
+    color: white;
+    background-color: #00a400;
+    margin-top: 22px;
+    margin-left: 130px;
+    text-align: center;
+    height: 37px;
+    width: 175px;
+    border-radius: 6px;
+    font-size: 25px;
+    border-color: #fff;
+    font-family: SFProDisplay-Bold, Helvetica, Arial, sans-serif!important;
+    font-weight: bold;
+}
+.sen
+{
+    padding-left: 5px;
+}
+.already
+{
+    padding-left: 120px;
+    font-size: 19px;
+    color: #1877f2;;
+    cursor: pointer;
+    text-decoration: none;
+}
+.last
+{
+    margin-top: 10px
+}
+.link
+{
+    color: #385898;
+    cursor: pointer;
+    text-decoration: none;
+}
+.form-box
+{
+    border: solid 1px;
+    width: 28%;
+    float: left;
+    height: 24px;
+    margin-left: 16px;
+    text-align: center;
+    border-radius: 4px;
+    padding-top: 11px;
+    border-color: gray;
+    margin-bottom: 10px;
+    font-family: "SFProDisplay-Regular, Helvetica, Arial, sans-serif";
+    font-size: 19px;
+}
+.form-pad
+{
+    margin-left: -17px;
+}
